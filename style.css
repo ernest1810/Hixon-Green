@@ -1,0 +1,122 @@
+.navbar {
+    background-color: rgba(0, 50, 68, 0.90);
+    }
+    .nav-item h5 {
+        color: #855b17;
+        text-decoration: none;
+    }
+    .nav-item {
+        padding: 10px;
+    }
+    .nav-item h3 {
+        margin-bottom: 0;
+        margin-top: 2%;
+    }
+    #navbarNav {
+        justify-content: center;
+    }
+    .navbar-toggler {
+        background: #949494;
+    }
+    .carousel-inner {
+        max-height: 700px;
+    }
+    .flex-container {
+        display: flex;
+        max-height: 800PX;
+    }
+    .flex-container1 {
+        display: flex;
+        max-height: 2000PX;
+    }
+    .flexbox-item1 {
+        width: 16%;
+        min-height: 100px;
+        background-color: #cba15c;
+    }
+    .flexbox-item2 {
+        width: 70%;
+    }
+    /* // NEWS FLEXBOX */
+    .flexbox-item3 {
+        width: 16%;
+        min-height: 100px;
+        background-color: rgba(224, 224, 224, 0.911);
+    }
+    .fleximg {
+        width: 322.95px;
+    }
+    .card-body {
+        max-width: 50%;
+    }
+    .flexbox4 {
+        height: 100px;
+        width: 33.33%;
+        text-align: center;
+        background-color: rgba(224, 224, 224, 0.911);
+    }
+    .flexbox4 h2 {
+        padding-top: 30px;
+    }
+    .card-img-top {
+        height: 215px;
+    }
+    /* // END NEWS */
+    /* Contact */
+    .flexbox {
+        height: 50px;
+        width: 33.33%;
+        text-align: center;
+        background-color: #cba15c;
+    }
+    .flexbox1 {
+        max-height: 1000px;
+        width: 55%;
+        text-align: center;
+        background-color: #cba15c;
+        padding: 50px 0 50px 0;
+    }
+    .flexbox3 {
+        height: 150px;
+        width: 33.33%;
+        text-align: center;
+        background-color: #ffffff;
+    }
+    .flexbox3 h2 {
+        padding-top: 30px;
+    }
+    .foot {
+        background-color: rgba(224, 224, 224, 0.911);
+    }
+    .foot li {
+        padding: 0.8%;
+    }
+    /* // MENU */
+    .flexbox-menu {
+        max-height: 700px;
+        width: 25%;
+        text-align: center;
+        padding: 50px 0 50px 0;
+    }
+    .flex-container2 {
+        display: flex;
+        max-height: 800PX;
+        max-width: 1000px;
+        margin: auto;
+    }
+    .entry-content {
+        margin: auto;
+        max-height: 800PX;
+        max-width: 1000px;
+    }
+    .flex-container3 {
+        display: flex;
+        max-height: 800PX;
+        max-width: 1000px;
+        margin: auto;
+        justify-content: center;
+    }
+    .flexbox-menu {
+        padding: 20px;
+    }
+    
